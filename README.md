@@ -10,24 +10,18 @@ Here are some ideas to get you started:
 
 ### 📫 Connect with me
 
-[<img alt="LinkedIn" width="64px" src="https://simpleicons.org/icons/linkedin.svg" />](https://linkedin.com/in/deepdotnet)
-[<img alt="Instagram" width="64px" src="https://simpleicons.org/icons/instagram.svg" />](https://instagram.com/deepdotnet)
-
-
-<br />
+[<img alt="LinkedIn" width="24px" src="https://simpleicons.org/icons/linkedin.svg" />](https://linkedin.com/in/deepdotnet)
+[<img alt="Instagram" width="24px" src="https://simpleicons.org/icons/instagram.svg" />](https://instagram.com/deepdotnet)
 
 ---
 
 ### Credentials
-[![](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/18442462)](https://www.credential.net/0f944bcc-e7ba-479d-bfb9-2b61c7ce7a58)
+[![Associate Cloud Engineer](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/18442462)](https://www.credential.net/0f944bcc-e7ba-479d-bfb9-2b61c7ce7a58)
 
 ### Cloud Providers
 
-[<img alt="Azure" width="64px" src="https://simpleicons.org/icons/microsoftazure.svg" />](https://azure.microsoft.com/) 
-[<img alt="Azure" width="64px" src="https://simpleicons.org/icons/amazonaws.svg" />](https://aws.amazon.com/)
-
-<br />
-<br />
+[<img alt="Azure" width="24px" src="https://simpleicons.org/icons/microsoftazure.svg" />](https://azure.microsoft.com/) 
+[<img alt="Azure" width="24px" src="https://simpleicons.org/icons/amazonaws.svg" />](https://aws.amazon.com/)
 
 ---
 
