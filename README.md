@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### Cloud Providers
 
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" alt="java logo" width="100" height="100">](https://azure.microsoft.com/) 
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="java logo" width="100" height="100">](https://aws.amazon.com/)
+[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google/google.png" alt="java logo" width="100" height="100">](https://cloud.google.com/)
 
 ### Languages and tools
 
