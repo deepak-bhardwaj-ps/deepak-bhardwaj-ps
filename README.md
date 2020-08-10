@@ -2,8 +2,6 @@
 
 ### I am a Father, Husband, Software Engineer, and Photographer
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on [VS Code Futuristic Dark Theme](https://github.com/deepak-bhardwaj-ps/VSCode-Theme-Futuristic)
 - 🌱 I’m currently exploring **new ways of leading** a team while **working from home**
 - 👯 I’m looking to collaborate more on open source
@@ -52,3 +50,7 @@ Here are some ideas to get you started:
 ### Credentials
 
 [<img alt="Associate Cloud Engineer" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/18442462" />](https://www.credential.net/0f944bcc-e7ba-479d-bfb9-2b61c7ce7a58)
+
+### Github stats
+
+![Deepak Bhardwaj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepak-bhardwaj-ps&show_icons=true&count_private=true&theme=dracula)
