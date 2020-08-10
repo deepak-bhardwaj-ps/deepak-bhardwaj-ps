@@ -10,21 +10,34 @@ Here are some ideas to get you started:
 
 ### 📫 Connect with me
 
-[<img alt="LinkedIn" width="24px" src="https://simpleicons.org/icons/linkedin.svg" />](https://linkedin.com/in/deepdotnet)
-[<img alt="Instagram" width="24px" src="https://simpleicons.org/icons/instagram.svg" />](https://instagram.com/deepdotnet)
-
-### Credentials
-[![Associate Cloud Engineer](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/18442462)](https://www.credential.net/0f944bcc-e7ba-479d-bfb9-2b61c7ce7a58)
+[<img alt="LinkedIn" width="32" src="https://ico.now.sh/linkedin/0077B5" />](https://linkedin.com/in/deepdotnet)
+[<img alt="Instagram" width="32" src="https://ico.now.sh/instagram/E4405F" />](https://instagram.com/deepdotnet)
+[<img alt="Twitter" width="32" src="https://ico.now.sh/twitter/1da1f2" />](https://twitter.com/deepdotnet)
 
 ### Cloud Providers
 
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" alt="java logo" width="100" height="100">](https://azure.microsoft.com/) 
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google/google.png" alt="java logo" width="100" height="100">](https://cloud.google.com/)
+[<img src="https://ico.now.sh/microsoftazure/0089D6" alt="java logo" width="32">](https://azure.microsoft.com/) 
+[<img src="https://ico.now.sh/googlecloud/4285F4" alt="java logo" width="32">](https://cloud.google.com/)
 
 ### Languages and tools
+[<img src="https://ico.now.sh/azuredevops/0078D7" alt="java logo" height="32">](https://github.com/topics/java)
+[<img src="https://ico.now.sh/java/007396" alt="java logo" height="32">](https://github.com/topics/java)
+[<img src="https://ico.now.sh/dot-net/5C2D91" alt="java logo" height="32">](https://github.com/topics/dotnet)
+[<img src="https://ico.now.sh/spring/6DB33F" alt="java logo" height="32">](https://github.com/topics/spring-boot)
+[<img src="https://ico.now.sh/terraform/623CE4" alt="java logo" height="32">](https://github.com/topics/terraform)
+[<img src="https://ico.now.sh/react/61DAFB" alt="java logo" height="32">](https://github.com/topics/react)
+[<img src="https://ico.now.sh/css3/1572B6" alt="java logo" height="32">](https://github.com/topics/css3)
+[<img src="https://ico.now.sh/jira/0052CC" alt="java logo" height="32">](https://github.com/topics/jira)
+[<img src="https://ico.now.sh/redis/DC382D" alt="java logo" height="32">](https://github.com/topics/redis)
+[<img src="https://ico.now.sh/html5/E34F26" alt="java logo" height="32">](https://github.com/topics/html5)
+[<img src="https://ico.now.sh/openid/F78C40" alt="java logo" height="32">](https://github.com/topics/openid)
+[<img src="https://ico.now.sh/kotlin/0095D5" alt="java logo" height="32">](https://github.com/topics/kotlin)
+[<img src="https://ico.now.sh/docker/2496ED" alt="java logo" height="32">](https://github.com/topics/docker)
+[<img src="https://ico.now.sh/python/3776AB" alt="java logo" height="32">](https://github.com/topics/python)
+[<img src="https://ico.now.sh/csharp/239120" alt="java logo" height="32">](https://github.com/topics/csharp)
+[<img src="https://ico.now.sh/node-dot-js/339933" alt="java logo" height="32">](https://github.com/topics/nodejs)
+[<img src="https://ico.now.sh/mongodb/47A248" alt="java logo" height="32">](https://github.com/topics/mongodb)
 
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java logo" width="100" height="100">](https://github.com/topics/java)
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png" alt="java logo" width="100" height="100">](https://github.com/topics/dotnet)
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" alt="java logo" width="100" height="100">](https://github.com/topics/spring-boot)
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" alt="java logo" width="100" height="100">](https://github.com/topics/terraform)
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="java logo" width="100" height="100">](https://github.com/topics/react)
+### Credentials
+
+[![Associate Cloud Engineer](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/18442462)](https://www.credential.net/0f944bcc-e7ba-479d-bfb9-2b61c7ce7a58)
