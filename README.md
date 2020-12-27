@@ -47,9 +47,13 @@
 [<img src="https://ico.now.sh/adobephotoshop/26C9FF" alt="Adobe Photoshop" height="32">](https://github.com/topics/photoshop)
 [<img src="https://ico.now.sh/adobelightroomclassic/AED6EA" alt="Adobe Lightroom Classic" height="32">](https://github.com/topics/lightroom)
 
-### Credentials
+### Certifications/Credentials
 
+[<img alt="Associate Cloud Engineer" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/26146531" />](https://www.credential.net/bdfe98da-c3b2-4337-95e6-5e16033a9ea7)
 [<img alt="Associate Cloud Engineer" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/18442462" />](https://www.credential.net/0f944bcc-e7ba-479d-bfb9-2b61c7ce7a58)
+[<img alt="Associate Cloud Engineer" height="200" src="https://images.youracclaim.com/images/987adb7e-49be-4e24-b67e-55986bd3fe66/azure-solutions-architect-expert-600x600.png" />](https://www.youracclaim.com/badges/f786581c-3643-4b82-84b4-631bb25bb29d)
+[<img alt="Associate Cloud Engineer" height="200" src="https://images.youracclaim.com/size/680x680/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" />](https://www.youracclaim.com/badges/b8c69b7d-dd1e-455b-ad99-6312cde2a7cd)
+
 
 ### Github stats
 
