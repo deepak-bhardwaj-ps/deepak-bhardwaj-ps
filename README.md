@@ -2,7 +2,7 @@
 
 ### I am a Father, Husband, Software Engineer, and Photographer
 
-- 🔭 I’m currently working on [VS Code Futuristic Dark Theme](https://github.com/deepak-bhardwaj-ps/VSCode-Theme-Futuristic)
+- 🔭 I’m currently working on [VS Code Futuristic Dark Theme](https://github.com/deepak-bhardwaj-ps/VSCode-Theme-Futuristic) and [Backstage](https://github.com/deepak-bhardwaj-ps/backstage)
 - 🌱 I’m currently exploring **new ways of leading** a team while **working from home**
 - 👯 I’m looking to collaborate more on open source
 
