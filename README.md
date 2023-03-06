@@ -8,7 +8,7 @@
 
 ### 📫 Connect with me
 
-[<img alt="LinkedIn" width="32" src="https://ico.now.sh/linkedin/0077B5" />](www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=mr-deepak-bhardwaj)
+[<img alt="LinkedIn" width="32" src="https://ico.now.sh/linkedin/0077B5" />](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=mr-deepak-bhardwaj)
 [<img alt="Instagram" width="32" src="https://ico.now.sh/instagram/E4405F" />](https://instagram.com/deepdotnet)
 [<img alt="Twitter" width="32" src="https://ico.now.sh/twitter/1da1f2" />](https://twitter.com/deepdotnet)
 
